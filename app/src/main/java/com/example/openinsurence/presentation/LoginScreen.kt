@@ -31,6 +31,7 @@ fun LoginScreen() {
                 label = { Text("Enter your email") },
                 modifier = Modifier.fillMaxWidth()
             )
+            Text("ROdolfao")
         }
     }
 }
